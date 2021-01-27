@@ -1,0 +1,85 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.07.2017 11:48:07
+
+newmtl 01___Default
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.2250 0.2250 0.2250
+	Ke 0.0000 0.0000 0.0000
+	map_Ka body.BMP
+	map_Kd body.BMP
+
+newmtl 02___Default
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.7830 0.7830 0.7830
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\inter\Documents\modelos\Action Girl\eye1.BMP
+	map_Kd C:\Users\inter\Documents\modelos\Action Girl\eye1.BMP
+
+newmtl 03___Default
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.7830 0.7830 0.7830
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\inter\Documents\modelos\Action Girl\eye2.BMP
+	map_Kd C:\Users\inter\Documents\modelos\Action Girl\eye2.BMP
+
+newmtl 04___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka shirt.BMP
+	map_Kd shirt.BMP
+
+newmtl 06___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\inter\Documents\modelos\Action Girl\hair.BMP
+	map_Kd C:\Users\inter\Documents\modelos\Action Girl\hair.BMP
+	map_d hair_mask.jpg
